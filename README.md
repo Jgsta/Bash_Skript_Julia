@@ -5,3 +5,5 @@ Hier liegt mein Bash-Skript
 
 - 2023-02-06 - 2023-02-07
 - **Autorin**: Julia Stapels
+
+Hier noch liebe Grüße von Nora!
